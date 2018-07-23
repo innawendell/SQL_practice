@@ -1,1 +1,1 @@
-# SQL_practice
+# Exploration of Airbnb LA database through SQL queries.
